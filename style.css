@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    font-size: large;
+    font:bold;
+    text-align: center;
+    
+}
+.links{
+    list-style-type: none;
+    padding: 0%;
+    margin: auto;
+}
+
+.links li{
+    margin: 10px 0;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.links a{
+    text-decoration: none;
+    color: hsl(hue, saturation, lightness);
+    font-weight: bold;
+    transition: all;
+}
